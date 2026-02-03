@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beta-j23&label=Profile%20views&color=0e75b6&style=flat" alt="beta-j23" /> </p>
 
-- 🌱 I’m currently a student at **42**
+- 🌱 Currently this profile have mainly projects done in school, currently I'm reorganizing the repositories of the projects done in **42**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
