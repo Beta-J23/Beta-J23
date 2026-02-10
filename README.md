@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beta-j23&label=Profile%20views&color=0e75b6&style=flat" alt="beta-j23" /> </p>
 
-- Last news from this channel:
+- Latest news from this channel:
 - Started the development of <a href="https://github.com/Beta-J23/Cerp">Cerp</a> a minimal webradio player for chrome browsers.
 - 🌱 I've now grouped almost all the projects done in **42 School** into one single repo.
 - Published an old test project <a href="https://github.com/Beta-J23/ShowTracker">ShowTracker</a>
