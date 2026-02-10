@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Alessandro</h1>
-<h3 align="center">Interested in audio/video projects, and embedded programming.</h3>
+<h3 align="center">Interested in A/V integration, Audio Distribution, and embedded programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beta-j23&label=Profile%20views&color=0e75b6&style=flat" alt="beta-j23" /> </p>
-
-- I'm interested in A/V integration
 
 - Last news from this channel:
 - Started the development of <a href="https://github.com/Beta-J23/Cerp">Cerp</a> a minimal webradio player for chrome browsers.
