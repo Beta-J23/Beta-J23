@@ -5,7 +5,8 @@
 
 - Last news from this channel:
 - Started the development of <a href="https://github.com/Beta-J23/Cerp">Cerp</a> a minimal webradio player for chrome browsers.
-- 🌱 I've now grouped all the projects done in **42 School** into one single repo.
+- 🌱 I've now grouped almost all the projects done in **42 School** into one single repo.
+- Published an old test project <a href="https://github.com/Beta-J23/ShowTracker">ShowTracker</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
