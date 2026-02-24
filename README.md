@@ -6,7 +6,7 @@
    Latest news from this channel:
 - Published a collection of <a href="https://github.com/Beta-J23/Bookmarklets">BookMarklets</a> including Midi Monitor, Discogs Tools, a Json parser, and a Bookmarklet Launcher. 
 - Started the development of <a href="https://github.com/Beta-J23/Cerp">Cerp</a> a minimal webradio player for chrome browsers.
-- 🌱 I've now grouped almost all the projects done in **42 School** into one single repo.
+- 🌱 Grouped almost all the projects done in **42 School** into one single <a href=https://github.com/Beta-J23/42Roma>repo</a>.
 - Published an old test project <a href="https://github.com/Beta-J23/ShowTracker">ShowTracker</a>, a bridge beetween Mdek1001 and an ambisonic plugin through OSC.
 
 <h3 align="left">Connect with me:</h3>
